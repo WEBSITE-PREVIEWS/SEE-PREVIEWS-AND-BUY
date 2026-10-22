@@ -424,7 +424,7 @@ const products = [
   },
   {
     title: "CP FATHER DAUGHTER",
-    video: "https://pub-ecb8250db1604d6bb13c049b75ba1037.r2.dev/24.mp4",
+    video: "https://nastystuffher.pages.dev/assets/videos/24.mp4",
     desc: "GOLD EDITION – 60GB OF RARE CP CONTENT.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
@@ -438,7 +438,7 @@ const products = [
   },
   {
     title: "SNAPCHAT LEAKS",
-    video: "https://pub-ecb8250db1604d6bb13c049b75ba1037.r2.dev/24.mp4",
+    video: "https://nastystuffher.pages.dev/assets/videos/25.mp4",
     desc: "SNAPCHAT LEAKS – 200GB OF EXCLUSIVE SNAPS.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
@@ -466,7 +466,7 @@ const products = [
   },
   {
     title: "AXIOUS PANDA",
-    video: "https://pub-ecb8250db1604d6bb13c049b75ba1037.r2.dev/26.mp4",
+    video: "https://nastystuffher.pages.dev/assets/videos/27.mp4",
     desc: "500GB MEGA PACK – ALL TEENS, CP, VIP, AND MORE.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
@@ -480,7 +480,7 @@ const products = [
   },
   {
     title: "BLOWJOB",
-    video: "https://pub-ecb8250db1604d6bb13c049b75ba1037.r2.dev/27.mp4",
+    video: "https://nastystuffher.pages.dev/assets/videos/29.mp4",
     desc: "BUNDLE - BLOWJOB MEGA COLLECTION.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
@@ -494,7 +494,7 @@ const products = [
   },
   {
     title: "ANIMAL AND YOUNG GIRLS",
-    video: "https://pub-ecb8250db1604d6bb13c049b75ba1037.r2.dev/28.mp4",
+    video: "https://nastystuffher.pages.dev/assets/videos/30.mp4",
     desc: "BUNDLE - ANIMAL AND YOUNG GIRLS ULTIMATE PACK.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
@@ -564,7 +564,7 @@ const products = [
   },
   {
     title: "SKI BLACK PYT",
-    video: "https://pub-ecb8250db1604d6bb13c049b75ba1037.r2.dev/33.mp4",
+    video: "https://nastystuffher.pages.dev/assets/videos/35.mp4",
     desc: "BUNDLE - SKI BLACK PYT RARE FILES.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
@@ -578,7 +578,7 @@ const products = [
   },
   {
     title: "GAY CP YOUNG",
-    video: "https://pub-ecb8250db1604d6bb13c049b75ba1037.r2.dev/34.mp4",
+    video: "https://nastystuffher.pages.dev/assets/videos/38.mp4",
     desc: "BUNDLE - GAY CP YOUNG EXCLUSIVE FILES.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
@@ -592,8 +592,22 @@ const products = [
   },
   {
     title: "BROTHER AND SIS",
-    video: "https://pub-ecb8250db1604d6bb13c049b75ba1037.r2.dev/35.mp4",
+    video: "https://nastystuffher.pages.dev/assets/videos/39.mp4",
     desc: "BUNDLE - BROTHER AND SIS BEST FOLDERS.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 37 OF 37
+    // =====================================================
+    views: 391,
+  },
+  {
+    title: "ULTIMATE CP",
+    video: "https://nastystuffher.pages.dev/assets/videos/49.mp4",
+    desc: "ULTIMATE CP - COMPLETE COLLECTION.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
     proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
@@ -604,8 +618,35 @@ const products = [
     // =====================================================
     views: 291,
   },
+  {
+    title: "TEEN SNAP",
+    video: "https://nastystuffher.pages.dev/assets/videos/47.mp4",
+    desc: "TEEN SNAP - SNAPCHAT LEAKS.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 37 OF 37
+    // =====================================================
+    views: 251,
+  },
+  {
+    title: "TGERMAN TEENS",
+    video: "https://nastystuffher.pages.dev/assets/videos/31.mp4",
+    desc: "BUNDLE - GERMAN TEENS EXCLUSIVE VAULT.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 37 OF 37
+    // =====================================================
+    views: 271,
+  },
 ];
-
 
 // =====================================================
 // BUYERS
